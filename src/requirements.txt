@@ -1,0 +1,12 @@
+python-dotenv
+PyMuPDF
+aiohttp
+teams-ai==1.5.0
+openai<2.0.0
+msgraph-sdk
+requests
+botbuilder-integration-aiohttp>=4.14.0
+asyncio
+cookiecutter==1.7.0
+jupyter
+json
